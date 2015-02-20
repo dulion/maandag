@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-### Well hello there! Dit is de MAANDAG wijzing !!!!
+### Well hello there! Dit is de VRIJDAG wijzing nummer UNO!!!!
 =======
 ### The Spoon-Knife Repository
 >>>>>>> FETCH_HEAD
@@ -11,3 +11,4 @@ Creating a *fork* is producing a personal copy of someone else's project. Forks 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.   Dit is de MAANDAG wijziging
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+VRIJDAG wijzing nummer UNO
